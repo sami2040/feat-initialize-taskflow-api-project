@@ -17,3 +17,4 @@ refactor: simplify database query logic
 feat: implement task search functionality
 fix: improve error response formatting
 test: add authentication middleware tests
+chore: update development dependencies
