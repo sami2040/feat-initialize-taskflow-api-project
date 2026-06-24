@@ -10,3 +10,4 @@ test: add endpoint integration tests
 refactor: organize route handlers by module
 feat: implement task deletion endpoint
 feat: add pagination for task listing
+fix: handle invalid task identifiers
