@@ -11,3 +11,4 @@ refactor: organize route handlers by module
 feat: implement task deletion endpoint
 feat: add pagination for task listing
 fix: handle invalid task identifiers
+docs: add API usage examples
