@@ -5,3 +5,4 @@ feat: create task model schema
 feat: implement create task endpoint
 feat: add task listing endpoint
 fix: validate request payload fields
+feat: add task status update endpoint
