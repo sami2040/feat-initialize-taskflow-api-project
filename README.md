@@ -13,3 +13,4 @@ feat: add pagination for task listing
 fix: handle invalid task identifiers
 docs: add API usage examples
 feat: add user authentication middleware
+refactor: simplify database query logic
