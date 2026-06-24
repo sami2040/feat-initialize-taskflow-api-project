@@ -7,3 +7,4 @@ feat: add task listing endpoint
 fix: validate request payload fields
 feat: add task status update endpoint
 test: add endpoint integration tests
+refactor: organize route handlers by module
