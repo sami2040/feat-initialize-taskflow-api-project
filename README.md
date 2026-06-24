@@ -15,3 +15,4 @@ docs: add API usage examples
 feat: add user authentication middleware
 refactor: simplify database query logic
 feat: implement task search functionality
+fix: improve error response formatting
